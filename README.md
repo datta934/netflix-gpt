@@ -13,6 +13,9 @@
     - Connection
     - Deployment
 10. Sign up user with firebase
+11. Implement sign in with API
+12. Created redux store with userSlice
+
 
 
 ## My notes
