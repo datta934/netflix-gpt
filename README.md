@@ -16,6 +16,7 @@
 11. Implement sign in with API
 12. Created redux store with userSlice
 13. Udpate profile and Sign Out
+14. Bug Fixes: Sign up user displayName, profile picture, protecting unauthorized routes
 
 
 
