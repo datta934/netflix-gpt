@@ -1,4 +1,4 @@
-# App based on Episode 14 of Namaste React
+# App based on Episode 14-16 of Namaste React
 
 ## Tutorial Notes
 1. Create React app
@@ -17,6 +17,11 @@
 12. Created redux store with userSlice
 13. Udpate profile and Sign Out
 14. Bug Fixes: Sign up user displayName, profile picture, protecting unauthorized routes
+15. Adding constants
+16. Adding the TMDB API
+17. Strict mode explaination
+18. Custom hook for getting now playing movies
+19. Use more TMDB Apis and build browse page
 
 
 
