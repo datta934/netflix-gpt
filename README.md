@@ -22,6 +22,8 @@
 17. Strict mode explaination
 18. Custom hook for getting now playing movies
 19. Use more TMDB Apis and build browse page
+20. Search GPT
+21. Multilingual search support
 
 
 
