@@ -24,7 +24,8 @@
 19. Use more TMDB Apis and build browse page
 20. Search GPT
 21. Multilingual search support
-22. 
+22. Protect keys
+23. 
 
 
 
