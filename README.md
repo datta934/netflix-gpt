@@ -25,7 +25,9 @@
 20. Search GPT
 21. Multilingual search support
 22. Protect keys
-23. 
+23. Avoid API calls if data exists
+24. Making it responsive (Not including in code)
+
 
 
 
